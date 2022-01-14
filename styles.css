@@ -1,0 +1,22 @@
+body {
+    background-color: #45ad92;
+}
+
+h2 {
+    text-decoration: underline;
+        transition: 0.5s;
+}
+
+h1 {
+    border: double 5px;
+    transition: 0.5s;
+}
+
+h1:hover {
+    border:dotted 10px;
+    color: yellow;
+}
+
+h2:hover {
+    color: yellow;
+}
